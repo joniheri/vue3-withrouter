@@ -32,6 +32,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - OS yang digunakan adalah Windows 10
 - Project ini menggunakan
-  -- Node JS versi 16.15.0 (cek di termilanl dengan sintak 'node -v')
-  -- NPM versi 8.8.0 (cek di termilanl dengan sintak 'npm -v')
-  -- @vue/cli 5.0.4 (cek di termilanl dengan sintak 'vue --version')
+  - Node JS versi 16.15.0 (cek di termilanl dengan sintak 'node -v')
+  - NPM versi 8.8.0 (cek di termilanl dengan sintak 'npm -v')
+  - @vue/cli 5.0.4 (cek di termilanl dengan sintak 'vue --version')
